@@ -35,7 +35,7 @@
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.1.1",
     "ember-cli-sri": "^2.1.0",
-    "ember-cli-typescript": "link:/Users/dfreeman/code/ember-cli-typescript",
+    "ember-cli-typescript": "typed-ember/ember-cli-typescript#mu",
     "ember-cli-uglify": "^2.0.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.1.0",
